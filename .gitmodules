@@ -1,0 +1,9 @@
+[submodule "hilats-parent"]
+	path = hilats-parent
+	url = https://bitbucket.org/highlatitudes/hilats-parent.git
+[submodule "rest-rdf-server"]
+	path = rest-rdf-server
+	url = https://bitbucket.org/highlatitudes/rest-rdf-server.git
+[submodule "mosaics-server"]
+	path = mosaics-server
+	url = https://bitbucket.org/highlatitudes/mosaics-server.git
