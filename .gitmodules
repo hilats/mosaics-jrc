@@ -7,3 +7,9 @@
 [submodule "mosaics-server"]
 	path = mosaics-server
 	url = https://bitbucket.org/highlatitudes/mosaics-server.git
+[submodule "mosaics-jrc-app"]
+	path = mosaics-jrc-app
+	url = https://github.com/hilats/mosaics-jrc-app.git
+[submodule "mosaics-jrc-server"]
+	path = mosaics-jrc-server
+	url = https://github.com/hilats/mosaics-jrc-server.git
